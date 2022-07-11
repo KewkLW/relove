@@ -1,11 +1,12 @@
 {
-  "name": "untitled",
+  "name": "relove",
   "version": "1.0.0",
-  "description": "Scene exported with Spline",
+  "description": "",
   "scripts": {
     "start": "serve"
   },
   "devDependencies": {
     "serve": "^13.0.2"
-  }
+  },
+  "keywords": []
 }
